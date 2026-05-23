@@ -1,0 +1,6 @@
+{
+  "name": "Vant Coffee",
+  "description": "Premium Robusta Lampung - Premium Indonesian Coffee Brand and Export-Ready Trade Supplier",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
